@@ -13,8 +13,8 @@ const data = [
 		roles: [
       { title: 'animals', values: ['moose', 'cow', 'rabbit', 'lion', 'gorilla'] },
 			{ title: 'cars', values: ['toyota', 'mazda', 'kia', 'bmw', 'audi'] },
-			{ title: 'plants', values: ['sun flower', 'grass', 'tree'] },
 			{ title: 'shapes', values: ['squares'] },
+			{ title: 'plants', values: ['sun flower', 'grass', 'tree'] },
 		],
 	},
 	{
